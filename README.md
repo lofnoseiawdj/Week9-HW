@@ -7,7 +7,7 @@ Week9-HW
 </head>
 <body>
 
-<table style="border:3px #cccccc solid;" cellpadding="10" border=‘1’>
+<table border=‘1’>
 	<tr>
 		<th colspan="3">About--109306082</th>
 	</tr>
