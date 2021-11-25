@@ -4,11 +4,10 @@ Week9_HW
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
 </head>
 <body>
 
-<table border=‘1’>
+<table border="1">
 	<tr>
 		<th colspan="3">About--109306082</th>
 	</tr>
