@@ -1,9 +1,10 @@
-Week9-HW
+Week9_HW
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
 </head>
 <body>
 
@@ -50,7 +51,7 @@ Week9-HW
 	</tr>
 	<tr>
 		<td>Say Something</td>
-		<td colspan="2"><textarea name="saysth" rows="4" cols="45" placeholder="Say something here."></textarea></td>
+		<td colspan="2"><textarea name="saysth" placeholder="Say something here."></textarea></td>
 	</tr>
 	<tr>
 		<td colspan="3"><input type="submit" name="submit"><input type="reset" name="reset"></td>
